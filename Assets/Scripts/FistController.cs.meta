@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9fa540246044bf84eae0e74c6f9fc48c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerObject: {instanceID: 0}
+  - playerScript: {instanceID: 0}
+  - punchAnim: {instanceID: 0}
+  - punchClip: {fileID: 8300000, guid: c031a66bfaef6d34dad8826cc4bf5ac3, type: 3}
+  - punchSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
